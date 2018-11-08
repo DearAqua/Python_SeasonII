@@ -1,4 +1,5 @@
 # Python_3minCoding
 Easy-Python in 3mins Coding
 
-delaying
+2018-11-08
+#069 combine function
