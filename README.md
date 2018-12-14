@@ -3,4 +3,4 @@ Easy-Python in 3mins Coding
 
 - 20181211-Conan:001~010
 - 20181212-Conan:011~013
-- 20181213-Conan:014~020
+- 20181213-Conan:014~022
