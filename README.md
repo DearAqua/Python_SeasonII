@@ -8,3 +8,4 @@ Easy-Python in 3mins Coding
 - 20181215-Conan:030~032
 - 20181216-Conan:032~038
 - 20181217-Conan:038~042
+- 20181218-Conan:038~050
