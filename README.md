@@ -12,3 +12,4 @@ Easy-Python in 3mins Coding
 - 20181218-Conan:047~048
 - 20181219-Conan:049~049
 - 20181220-Conan:---
+- 20181221-Conan:---
