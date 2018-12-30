@@ -17,3 +17,6 @@ Easy-Python in 3mins Coding
 - 20181222-Conan:052~053
 - 20181225-Conan:053~066
 - 20181227-Conan:053~077
+- 20181228-Conan:---
+- 20181229-Conan:---
+- 20181230-Conan:---
