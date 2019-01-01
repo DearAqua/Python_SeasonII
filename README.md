@@ -21,3 +21,4 @@ Easy-Python in 3mins Coding
 - 20181229-Conan:---
 - 20181230-Conan:---
 - 20181231-Conan:---
+- 20180101-Conan:---
