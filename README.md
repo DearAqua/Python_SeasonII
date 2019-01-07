@@ -27,3 +27,4 @@ Easy-Python in 3mins Coding
 - 20180104-Conan:---
 - 20180105-Conan:---
 - 20180106-Conan:---
+- 20180107-Conan:077~107
