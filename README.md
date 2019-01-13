@@ -32,3 +32,5 @@ Easy-Python in 3mins Coding
 - 20180109-Conan:---
 - 20180110-Conan:117~150
 - 20180111-Conan:150~180
+- 20180112-Conan:150~180
+- 20180113-Conan:150~180
