@@ -48,3 +48,4 @@ Easy-Python in 3mins Coding
 - 20180125-Conan:241~278
 - 20180126-Conan:---
 - 20180127-Conan:---
+- 20180128-Conan:---
