@@ -21,6 +21,7 @@ Easy-Python in 3mins Coding
 - 20181229-Conan:---
 - 20181230-Conan:---
 - 20181231-Conan:---
+
 - 20190101-Conan:---
 - 20190102-Conan:---
 - 20190103-Conan:---
@@ -52,6 +53,7 @@ Easy-Python in 3mins Coding
 - 20190129-Conan:---
 - 20190130-Conan:---
 - 20190131-Conan:---
+
 - 20190201-Conan:---
 - 20190202-Conan:---
 - 20190203-Conan:---
@@ -80,4 +82,6 @@ Easy-Python in 3mins Coding
 - 20190226-Conan:---
 - 20190227-Conan:---
 - 20190228-Conan:---
+
 - 20190301-Conan:---
+- 20190302-Conan:---
