@@ -132,3 +132,4 @@ Easy-Python in 3mins Coding
 - 20190415-Conan:---
 - 20190416-Conan:---
 - 20190417-Conan:---
+- 20190418-Conan:---
