@@ -164,3 +164,4 @@ Easy-Python in 3mins Coding
 - 20190514:Begin work
 - 20190515:Work by myself
 - 20190516:Taxi
+- 20190517:Change Hotel
