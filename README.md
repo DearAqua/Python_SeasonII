@@ -165,3 +165,5 @@ Easy-Python in 3mins Coding
 - 20190515:Work by myself
 - 20190516:Taxi
 - 20190517:Change Hotel
+- 20190518:Travel Frankfurt
+- 20190519:go hiking and play football
